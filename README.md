@@ -10,5 +10,6 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
 
 ![Input image](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/cities/rberlin_000010_000019_leftImg8bit.png)
 ![OUtput image](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/cities/berlin_000010_000019_leftImg8bit_ctl_99.png)
+![Performance](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/cities/comb001.jpg)
 
   
