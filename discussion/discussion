@@ -1,0 +1,7 @@
+Observation1:
+Why does modells performs somtimes better if the input image is resized to the square form e.g. 512*512.
+see. resized_berling....png 
+
+Observation2:
+result from different iteration of one model can be combined to produce good result.
+True, false or unknown? 
