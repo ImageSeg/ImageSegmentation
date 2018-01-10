@@ -14,5 +14,4 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
   <img src="https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/cities/berlin_000010_000019_leftImg8bit_ctl_99.png" width="420" title="Output image"/>
 </p>
 
-<p>compare input and output </p>
 ![Performance](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/cities/comb001.jpg)
