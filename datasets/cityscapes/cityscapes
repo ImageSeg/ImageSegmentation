@@ -1,0 +1,3 @@
+Since we are dealing with a specific problem, the general datasets like pascal or cityscapes will not satisfay the requirements.
+From this reason we used the transformed label of cityscapes datasets:
+there is only three classes namely sky, ground and objects. See the examples
