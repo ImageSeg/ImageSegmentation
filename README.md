@@ -8,6 +8,6 @@ python test.py --model_path model --dataset dataset --image --out_path image
 ##### Example:
 python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path cities/berlin_000009_000019_leftImg8bit.png --out_path cities/berlin_000009_000019_leftImg8bit_ctl_99.png
 
-![alt text](file:///novelview/dominique/pytorch-semseg/test_result/cities/berlin_000006_000019_leftImg8bit.png)
+![Input image](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/cities/berlin_000006_000019_leftImg8bit.png)
 
   
