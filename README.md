@@ -17,3 +17,9 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
 ![Performance1](https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/comb001.jpg)
 
 ![Performance2](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/discussion/disc02.1.jpg)
+
+
+Source:
+https://github.com/meetshah1995/pytorch-semseg <br>
+https://arxiv.org/pdf/1604.01685.pdf <br>
+https://arxiv.org/pdf/1511.00561.pdf
