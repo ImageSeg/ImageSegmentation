@@ -1,4 +1,4 @@
-# ImageSegmentation
+# Image Segmentation
 Image Segmentation:
 comparing, analysing and using different methods based on NN to segment three classes namely sky, ground and objects.
 
