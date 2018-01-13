@@ -15,7 +15,6 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
 </p>
 
 ###### Compararing input and output
-<br>
 
 ![Performance1](https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/comb001.jpg)
 
