@@ -1,4 +1,4 @@
-# Image Segmentation
+.# Image Segmentation
 Image Segmentation:
 comparing, analysing and using different methods based on NN to segment three classes namely sky, ground and objects.
 
@@ -13,6 +13,8 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
   <img src="https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/cities/rberlin_000010_000019_leftImg8bit.png" width="420" title="Input image" />
   <img src="https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/cities/berlin_000010_000019_leftImg8bit_ctl_99.png" width="420" title="Output image"/>
 </p>
+<br>
+<br>
 
 
 ![Performance1](https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/comb001.jpg)
