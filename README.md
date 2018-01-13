@@ -13,14 +13,14 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
   <img src="https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/cities/rberlin_000010_000019_leftImg8bit.png" width="420" title="Input image" />
   <img src="https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/cities/berlin_000010_000019_leftImg8bit_ctl_99.png" width="420" title="Output image"/>
 </p>
-<br>
-###### Comparaison of input and output <br>
+<p>
+###### Comparaison of input and output </p>
 ![Performance1](https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/comb001.jpg)
-<br>
+
 ![Performance2](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/discussion/disc02.1.jpg)
 
 
-Source: <br>
+Source: 
 https://github.com/meetshah1995/pytorch-semseg <br>
 https://arxiv.org/pdf/1604.01685.pdf <br>
 https://arxiv.org/pdf/1511.00561.pdf
