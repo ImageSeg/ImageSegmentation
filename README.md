@@ -14,7 +14,6 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
   <img src="https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/cities/berlin_000010_000019_leftImg8bit_ctl_99.png" width="420" title="Output image"/>
 </p>
 
-<br>
 ###### C
 <br>
 
