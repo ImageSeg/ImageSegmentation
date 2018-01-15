@@ -1,5 +1,5 @@
 Observation1:
-Why does modells performs somtimes better if the input image is resized to the square form e.g. 512*512.
+Why does modells performs somtimes better if the input image has the same size as output image.
 see. resized_berling....png 
 
 Observation2:
