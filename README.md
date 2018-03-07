@@ -19,7 +19,7 @@ python3.6 test.py --model_path model/citys/segnet_cityscapes_1_99.pkl --img_path
 ![Performance1](https://github.com/ImageSeg/ImageSegmentation/blob/master/discussion/comb001.jpg)
 
 ###### Other example
-![Performance2](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/discussion/disc02.1.jpg)
+![Performance2](https://github.com/Thesis-Dominique/ImageSegmentation/blob/master/discussion/segnet1.png)
 
 
 Source: <br>
